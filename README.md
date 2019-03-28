@@ -4,7 +4,7 @@ Recognition of bicubic and trilinear image.
 # SRCNN
 Image resolution improvement
 ### DATA:
-* download the file at the follow link: [Google Drive](https://drive.google.com/open?id=1pQlrnzLYFuxbE9MNxY4q2veyyWTSqY_U)
+* download the file at the follow link: [Google Drive](https://drive.google.com/open?id=1pQlrnzLYFuxbE9MNxY4q2veyyWTSqY_U) and copy the folder **result**, **firstDataTask** and **secondDataTask** in root folder of project
 * In firstTaskData and secondTaskData folders there are all the images (in the correct three folders) used for the first and second task respectively. 
 * In the code there are all instructions for replace the paths with yours where required.
 ### CODE:
